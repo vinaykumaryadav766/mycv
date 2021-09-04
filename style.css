@@ -1,0 +1,23 @@
+body{background-color:lightcyan;}
+h1{
+color:blue;
+}
+h2{
+    color:blue;font-size: x-large;
+}
+h3{
+    color:blue;font-size:x-large}
+    h4{
+        color:blue;font-size:x-large
+    }
+    h5{
+        color:blue;font-size:x-large
+    }
+
+    hr{
+        border-style:none;
+        border-top-style:dotted;
+        width:5%;
+        border-width:5px;
+        border-color: lightblue;
+    }
